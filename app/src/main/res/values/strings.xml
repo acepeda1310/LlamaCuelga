@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Llama y Cuelga</string>
+    <string name="llamar">Pulse para llamar a Walter White</string>
+    <string name="llamando">Llamando a Walter White</string>
+</resources>
